@@ -1,0 +1,33 @@
+{
+  "name": "suman-example-reporter",
+  "version": "1.0.0",
+  "description": "Primary example reporter for Suman test runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "suman"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ORESoftware/suman-example-reporter.git"
+  },
+  "keywords": [
+    "Test",
+    "runner",
+    "Suman",
+    "test",
+    "reporter",
+    "integration",
+    "testing",
+    "system",
+    "testing"
+  ],
+  "author": "Olegzandr of Oresoftware",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ORESoftware/suman-example-reporter/issues"
+  },
+  "homepage": "https://github.com/ORESoftware/suman-example-reporter#readme",
+  "dependencies": {
+    "suman": "^1.1.512143"
+  }
+}
